@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.android.qdhhh.com.android.qdhhh.contactsdemo.MainActivity"
+            android:name="com.android.qdhhh.contactsdemo.MainActivity"
             android:windowSoftInputMode="stateHidden|adjustUnspecified">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
